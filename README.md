@@ -144,7 +144,7 @@ Every prior defense stacked together: word blacklist, intent classifier, output 
 - [Gandalf by Lakera](https://gandalf.lakera.ai)
 
 ## Related Projects
-- [OpenCanary Honeypot Detection Lab](https://github.com/TyandZi48/Honeypot-project)
+- [OpenCanary Honeypot Detection Lab](https://github.com/TyandZi48/Honeypot-project-)
 - [Target 2013 Data Breach Case Study](https://github.com/TyandZi48/Honeypot-project-)
 
 ## About
