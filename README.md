@@ -153,3 +153,13 @@ Every prior defense stacked together: word blacklist, intent classifier, output 
 ## About
 Cybersecurity student (B.S., expected 2029) building practical, hands-on experience toward an entry-level SOC Analyst or AI security role. This project is where AI security clicked for me as the direction I want to take in this field.
 
+## Skills Demonstrated
+
+- Prompt Injection
+- AI Red Teaming
+- LLM Security
+- OWASP LLM Top 10
+- Adversarial Testing
+- Threat Analysis
+- Technical Documentation
+- GitHub Project Documentation
