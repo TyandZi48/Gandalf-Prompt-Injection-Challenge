@@ -145,7 +145,7 @@ Every prior defense stacked together: word blacklist, intent classifier, output 
 
 ## Related Projects
 - [OpenCanary Honeypot Detection Lab](https://github.com/TyandZi48/Honeypot-project)
-- [Target 2013 Data Breach Case Study](https://github.com/TyandZi48/Target-2013-Breach-Case-Study)
+- [Target 2013 Data Breach Case Study](https://github.com/TyandZi48/Honeypot-project-)
 
 ## About
 Cybersecurity student (B.S., expected 2029) building practical, hands-on experience toward an entry-level SOC Analyst or AI security role. This project is where AI security clicked for me as the direction I want to take in this field.
