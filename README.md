@@ -1,4 +1,7 @@
-# Gandalf: AI Prompt Injection Challenge
+# Gandalf: AI Prompt Injection Challenge# Gandalf: AI Prompt Injection Challenge
+
+> AI Red Teaming • Prompt Injection • OWASP LLM Top 10 • LLM Security
+
 
 ![Ranked in the top 8% of all Gandalf players globally](top-8-percent.png)
 
